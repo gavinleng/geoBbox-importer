@@ -1,0 +1,19 @@
+{
+  "name": "geoBbox",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "debug": "~2.2.0",
+    "lodash": "^3.10.1",
+    "mongo-parse": "^1.0.8",
+    "nqm-json-import": "~0.0.23",
+    "nqm-utils": "^0.0.7",
+    "nqm-api-tdx": "git+https://github.com/nqminds/nqm-api-tdx.git",
+    "moment": "^2.10.6",
+    "nqm-geojson-tools": "^0.0.4",
+    "request": "^2.72.0"
+  }
+}
